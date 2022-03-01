@@ -6,6 +6,8 @@ Submitted by: **Irfan Khan**
 
 Time spent: **3** hours spent in total
 
+Link to project: https://glitch.com/edit/#!/codepath-prework?path=index.html%3A1%3A0
+
 ## Required Functionality
 
 The following **required** functionality is complete:
