@@ -42,16 +42,20 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 To complete this project, I used "UDEMY 2022 complete WEB Development Bootcamp" to learn more about JavaScripts and their implementation.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+ 
 The first part of the project where I had to set up the webpage wasn't a challenge for me. I had prior experience in HTML and CSS, which I extensively used to do personal projects. Unfortunately, I did not have any knowledge about Javascripts, and it was a challenge for me to write the logic for the game without understanding anything at first. I didn't want to write the program without knowing how everything was working together. So, to overcome this challenge, I watched some videos from the "Udemy 2022 complete WEB Development Bootcamp" and learned the essential topics needed to implement Javascript. After that, I understood the code's logic and found it much easier to focus. 
 In addition to the problem mentioned above, I also struggled to record the running code because I wasn't sure how long the GIF should be. So, I   just recorded the game's necessary elements that demonstrate the functionality of the program. Apart from that, I found this project exciting and was fun to implement. In addition, I was able to learn a new programming language (Javascripts) that I can use to enhance my personal projects and build websites in the future.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 While working on this project, I learned essential elements of WEB development, especially how we can control the UI (Front-end) from the back-end. Everything seems compact and powerful. Even then, I have some questions about WEB development: "How to optimize our website?", "How to add security layers to a website?" and "How to deploy and manage our websites?" These are some of the questions I am looking forward to learning through the Codepath SITE internship program. This knowledge will help me become a successful WEB developer in the future, and I can pursue my goals right after graduation with sufficient experience.
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+ 
 Although the required steps of the projects were enough to build a fully functional game, I would have loved to add some extra twitches to enhance the experience. Unfortunately, this is my midterm week, and I had very little time to add those extra utilities. 
 If I did have the time, I would have implemented three different tier game experiences: Beginner, Moderate, and Pro. Each level would have a different number of buttons but the same speed. For example, the "Beginner" mode would have four buttons (like the one we implemented for this prework), the "Moderate" mode would have six buttons, and the "Hard" mode would have eight buttons. This would have made the game more exciting and challenging at the same time.
 So, the website would have a home page where users could select the mode of the game. That specific game would have started with the required number of buttons according to the selection.
