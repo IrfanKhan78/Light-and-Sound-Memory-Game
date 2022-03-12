@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-<img src="http://g.recordit.co/N7gtGMMYVx.gif">
+<img src="http://g.recordit.co/N7gtGMMYVx.gif" width=300>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
