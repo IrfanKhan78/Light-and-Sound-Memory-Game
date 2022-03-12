@@ -57,9 +57,8 @@ While working on this project, I learned essential elements of WEB development, 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
  
 Although the required steps of the projects were enough to build a fully functional game, I would have loved to add some extra twitches to enhance the experience. Unfortunately, this is my midterm week, and I had very little time to add those extra utilities. 
-If I did have the time, I would have implemented three different tier game experiences: Beginner, Moderate, and Pro. Each level would have a different number of buttons but the same speed. For example, the "Beginner" mode would have four buttons (like the one we implemented for this prework), the "Moderate" mode would have six buttons, and the "Hard" mode would have eight buttons. This would have made the game more exciting and challenging at the same time.
-So, the website would have a home page where users could select the mode of the game. That specific game would have started with the required number of buttons according to the selection.
-
+If I did have the time, I would have implemented three different tier game experiences: Beginner, Moderate, and Pro. Each level would have a different number of buttons and game speed. For example, the "Beginner" mode would have four buttons but constant speed. The "Moderate" mode would have six buttons and three attempts, but each time the guess is made, it would increase the game speed by a certain amount. The "Hard" mode would have eight buttons, and it would be similar to the moderate mode but with only one attempt. This enhancement would have made the game more exciting and challenging at the same time.
+At the start of the game, it would show the details of each mode, and the user could select which mode they want to play. Then the game would start with the required number of buttons and other necessary specifications.
 
 
 ## Interview Recording URL Link
