@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![Codepath](https://user-images.githubusercontent.com/69400089/156081566-07726c2b-c7da-4682-a75f-bd21f4fa21ae.gif)
+![Codepath] http://g.recordit.co/N7gtGMMYVx.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
